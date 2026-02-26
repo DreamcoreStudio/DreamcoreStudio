@@ -178,6 +178,7 @@ Let's take a closer look at my **creative, technical, and AI-driven skills**, or
 
   * REST APIs
   * Express.js
+  * NGINX Server
   * Middleware architecture
   * JSON-based services
 
@@ -207,6 +208,9 @@ Let's take a closer look at my **creative, technical, and AI-driven skills**, or
   * Caching
     * In-memory cache
     * [**Redis**](https://redis.io/) – Real-time Data Platform
+  * Indexing Data
+    * Manual Index in Db
+    * [Meilisearch](https://www.meilisearch.com/) for fuzzy search
   * Rate limiting
   * CORS handling
 
